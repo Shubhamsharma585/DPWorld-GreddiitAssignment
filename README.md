@@ -20,7 +20,7 @@ To build the software from scratch within three days and try to finish all major
 
 
 ## Demo 
-Link- 
+Link- https://drive.google.com/file/d/1OdAqTwrvxwQkVxZfTyIoAM2e30lNOrIQ/view?usp=sharing
 
 ## Used Tech Stacks
 <p align='center'>
