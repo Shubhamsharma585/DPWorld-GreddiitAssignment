@@ -13,6 +13,12 @@ To build software using MERN stack (MongoDB, ExpressJS, ReactJS, and Nodejs ) Te
 ## Motto
 To build the software from scratch within three days and try to finish all major functionality without bugs. I learned a lot within these three days and feeling good for that.  
 
+
+## How To Use
+Step1. Go to folder database and use npm i to install dependencies and after that use command npm start and it will run server on localhost:5000.
+Step2.  Go to folder frontend and use npm i to install dependencies and after that use command npm start and it will run server on localhost:3000.
+
+
 ## Demo 
 Link- 
 
@@ -40,10 +46,6 @@ Link-
 ** bcrypt **
     </p>
     
-## How To Use
-Step1. Go to folder database and use npm i to install dependencies and after that use command npm start and it will run server on localhost:5000.
-Step2.  Go to folder frontend and use npm i to install dependencies and after that use command npm start and it will run server on localhost:3000.
-
 
 ## Approach
 - Phase 1.
