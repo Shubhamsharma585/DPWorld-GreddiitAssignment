@@ -15,8 +15,8 @@ To build the software from scratch within three days and try to finish all major
 
 
 ## How To Use
-Step1. Go to folder database and use npm i to install dependencies and after that use command npm start and it will run server on localhost:5000.
-Step2.  Go to folder frontend and use npm i to install dependencies and after that use command npm start and it will run server on localhost:3000.
+- Step1. Go to folder database and use npm i to install dependencies and after that use command npm start and it will run server on localhost:5000. 
+- Step2.  Go to folder frontend and use npm i to install dependencies and after that use command npm start and it will run server on localhost:3000.
 
 
 ## Demo 
