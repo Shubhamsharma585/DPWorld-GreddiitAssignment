@@ -39,13 +39,17 @@ Link-
 ** fuse **
 ** bcrypt **
     </p>
+    
+## How To Use
+Step1. Go to folder database and use npm i to install dependencies and after that use command npm start and it will run server on localhost:5000.
+Step2.  Go to folder frontend and use npm i to install dependencies and after that use command npm start and it will run server on localhost:3000.
 
 
 ## Approach
 - Phase 1.
 
 Initially i analysed the complete problem statement and figured out major functionality.
-Once i finished, I created a New database in my MongoDB project. After that I got the credential of database and set up the Express.js environment in my local system. I have also created a github repository for that and created two separate folder for front and back end with the readmi file. 
+Once i finished, I created a New database in my MongoDB project. After that I got the credential of database and set up the Express.js environment in my local system. 
 I started working on my backend initially and created my design pattern on MVC methodology. In the first step, I created a user collection in my database and worked on authentication API for the registration and sign-in page. 
 
 After finishing the authentication process in the Backend I have set up my react application for the front end and created UI for the same with the required checks.
